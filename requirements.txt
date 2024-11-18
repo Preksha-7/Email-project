@@ -1,0 +1,6 @@
+flask
+flask-sqlalchemy
+flask-migrate
+flask-dotenv
+sendgrid
+mysql-connector-python
